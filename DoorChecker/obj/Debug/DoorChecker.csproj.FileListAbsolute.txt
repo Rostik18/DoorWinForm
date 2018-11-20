@@ -1,0 +1,10 @@
+C:\Users\Ростик\source\repos\DoorChecker\DoorChecker\bin\Debug\DoorChecker.exe.config
+C:\Users\Ростик\source\repos\DoorChecker\DoorChecker\bin\Debug\DoorChecker.exe
+C:\Users\Ростик\source\repos\DoorChecker\DoorChecker\bin\Debug\DoorChecker.pdb
+C:\Users\Ростик\source\repos\DoorChecker\DoorChecker\obj\Debug\DoorChecker.csprojAssemblyReference.cache
+C:\Users\Ростик\source\repos\DoorChecker\DoorChecker\obj\Debug\DoorChecker.Form1.resources
+C:\Users\Ростик\source\repos\DoorChecker\DoorChecker\obj\Debug\DoorChecker.Properties.Resources.resources
+C:\Users\Ростик\source\repos\DoorChecker\DoorChecker\obj\Debug\DoorChecker.csproj.GenerateResource.cache
+C:\Users\Ростик\source\repos\DoorChecker\DoorChecker\obj\Debug\DoorChecker.csproj.CoreCompileInputs.cache
+C:\Users\Ростик\source\repos\DoorChecker\DoorChecker\obj\Debug\DoorChecker.exe
+C:\Users\Ростик\source\repos\DoorChecker\DoorChecker\obj\Debug\DoorChecker.pdb
